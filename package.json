@@ -1,20 +1,20 @@
 {
-  "name": "agen-slot-gacor-terpercaya",
-  "main": "./atom/agen-slot-gacor-terpercaya",
+  "name": "slot-gacor-deposit-pulsa-5000",
+  "main": "./atom/rb/agen-slot-gacor-terpercaya",
   "version": "1.7.2",
   "description": "Agen slot online deposit 5000",
   "keywords": [
-    "slot bet kecil",
-    "agen judi online",
-    "agen slot online",
-    "situs slot gacor",
-    "slot deposit 5000",
-    "slot online deposit termurah"
+    "Slot Deposit Pulsa",
+    "Slot Deposit Pulsa 5000",
+    "Agen Slot Deposit Pulsa",
+    "Slot Pulsa 5000",
+    "Slot Pulsa 5000 Tanpa Potongan",
+    "Slot Deposit Pulsa Tanpa Potongan"
   ],
   "activationCommands": {
-    "atom-workspace": "agen-slot-online:toggle"
+    "atom-workspace": "agen-slot-gacor-hari-ini:toggle"
   },
-  "repository": "https://github.com/ayam-gorengkalasan/agen-slot-gacor-terpercaya",
+  "repository": "https://github.com/agen-slot-gacor-hari-ini/slot-gacor-hari-ini",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
