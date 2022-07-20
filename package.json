@@ -1,20 +1,20 @@
 {
-  "name": "slot-online-deposit-via-pulsa-5000",
-  "main": "./atom/rb/20july/pulsa/slot-deposit-via-pulsa",
+  "name": "slot-online-deposit-via-bca-5000",
+  "main": "./atom/rb/20july/bank/slot-deposit-via-bca",
   "version": "1.10.4",
-  "description": "Daftar Situs Judi Slot Online Deposit Via Pulsa 5000 Tanpa Potongan",
+  "description": "Daftar Situs Judi Slot Online Deposit Via BCA 5000 Tanpa Potongan",
   "keywords": [
-    "Slot Deposit Pulsa 5000",
-    "Slot Deposit Via Pulsa 5000",
-    "Situs Slot Deposit Pulsa",
-    "Slot Deposit Pulsa",
-    "Slot Via Pulsa 5000",
-    "Slot Deposit Pulsa Tanpa Potongan"
+    "Slot Deposit BCA 5000",
+    "Slot Deposit Via BCA 5000",
+    "Situs Slot Deposit BCA",
+    "Slot Deposit BCA",
+    "Slot Via BCA 5000",
+    "Slot Deposit BCA Tanpa Potongan"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-deposit-pulsa-5000-paling-gacor:toggle"
+    "atom-workspace": "slot-deposit-via-bca-5000:toggle"
   },
-  "repository": "https://github.com/agen-slot-online-gacor/slot-deposit-via-pulsa.git",
+  "repository": "https://github.com/agen-slot-online-gacor/slot-deposit-via-bca.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
