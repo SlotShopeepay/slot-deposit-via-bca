@@ -1,6 +1,6 @@
 {
-  "name": "slot-online-deposit-via-pulsa",
-  "main": "./atom/rb/20july/pulsa/slot-deposit-pulsa-5000",
+  "name": "slot-gacor-deposit-via-pulsa",
+  "main": "./atom/rb/20july/pulsa/slot-deposit-via-pulsa",
   "version": "1.9.1",
   "description": "Daftar Situs Judi Slot Online Deposit Via Pulsa 5000 Tanpa Potongan",
   "keywords": [
@@ -14,7 +14,7 @@
   "activationCommands": {
     "atom-workspace": "slot-deposit-pulsa-5000-paling-gacor:toggle"
   },
-  "repository": "https://github.com/agen-slot-online-gacor/slot-online-deposit-via-pulsa.git",
+  "repository": "https://github.com/agen-slot-online-gacor/slot-deposit-via-pulsa.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
